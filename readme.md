@@ -128,16 +128,4 @@ src/
 
 ## Список задач для вирішення
 
-* Практична 3: https://www.hackerrank.com/challenges/staircase
-* Практична 4: https://www.hackerrank.com/challenges/grading
-* Практична 5: https://www.hackerrank.com/challenges/apple-and-orange
-* Практична 6: https://www.hackerrank.com/challenges/kangaroo
-* Практична 7: https://www.hackerrank.com/challenges/between-two-sets
-* Практична 8: https://www.hackerrank.com/challenges/breaking-best-and-worst-records
-* Практична 9: https://www.hackerrank.com/challenges/migratory-birds
-* Практична 10: https://www.hackerrank.com/challenges/sock-merchant
-* Практична 11: https://www.hackerrank.com/challenges/diagonal-difference
-* Практична 12: https://www.hackerrank.com/challenges/birthday-cake-candles
-* Практична 13: https://www.hackerrank.com/challenges/divisible-sum-pairs
-* Практична 14: https://www.hackerrank.com/challenges/bon-appetit
-* Практична 15: https://www.hackerrank.com/challenges/drawing-book
+
